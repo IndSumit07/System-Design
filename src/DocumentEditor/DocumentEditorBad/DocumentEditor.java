@@ -1,4 +1,4 @@
-package DocumentEditorBad;
+package DocumentEditor.DocumentEditorBad;
 import java.util.ArrayList;
 import java.util.List;
 import java.io.FileWriter;
