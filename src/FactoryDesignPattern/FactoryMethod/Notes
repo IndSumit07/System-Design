@@ -1,0 +1,1 @@
+Factory Method - Define an interface for creating objects but allows subclass to decide which class to instantiate.
