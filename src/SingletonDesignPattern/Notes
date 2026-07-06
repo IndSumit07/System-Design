@@ -1,0 +1,2 @@
+1. Create a private constructor
+2. Create a static instance (getInstance) that returns the same instance every time.
