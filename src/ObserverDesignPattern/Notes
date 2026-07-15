@@ -1,0 +1,1 @@
+Defines a one - to - many relationship b/w objects changes state, all of its dependents are notified and updated automatically.
